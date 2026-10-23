@@ -1,0 +1,27 @@
+# Function checks
+ride_fare(1, 12, False) == 12
+can_top_up(100, 70) == False
+
+# Program cases
+2
+20
+1
+12
+1
+9
+2
+100
+1
+5
+0
+Card type: student
+Rides taken: 3
+Top-ups: 1
+Fares paid: 12.00
+Lowest balance: 10.50
+Final balance: 108.00
+Refused: 0
+1: Ride accepted. Balance: 14.00
+2: Ride accepted. Balance: 10.50
+3: Top-up accepted. Balance: 110.50
+4: Ride accepted. Balance: 108.00
