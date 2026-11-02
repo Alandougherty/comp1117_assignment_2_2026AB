@@ -25,3 +25,150 @@ Refused: 0
 2: Ride accepted. Balance: 10.50
 3: Top-up accepted. Balance: 110.50
 4: Ride accepted. Balance: 108.00
+
+1
+0
+1
+34
+2
+50
+1
+49
+1
+38
+1
+36
+2
+1000
+2
+1001
+2
+1000
+1
+15
+2
+1000
+2
+50
+1
+49
+2
+50
+0
+Card type: adult
+Rides taken: 4
+Top-ups: 5
+Fares paid: 149.00
+Lowest balance: -35.00
+Final balance: 2951.00
+Refused: 4
+1: Ride refused. Balance: 0.00
+2: Top-up accepted. Balance: 50.00
+3: Ride accepted. Balance: 1.00
+4: Ride refused. Balance: 1.00
+5: Ride accepted. Balance: -35.00
+6: Top-up accepted. Balance: 965.00
+7: Top-up refused. Balance: 965.00
+8: Top-up accepted. Balance: 1965.00
+9: Ride accepted. Balance: 1950.00
+10: Top-up accepted. Balance: 2950.00
+11: Top-up accepted. Balance: 3000.00
+12: Ride accepted. Balance: 2951.00
+13: Top-up refused. Balance: 2951.00
+
+1
+100
+2
+50
+2
+49
+2
+60
+0
+Card type: adult
+Rides taken: 0
+Top-ups: 1
+Fares paid: 0.00
+Lowest balance: 100.00
+Final balance: 150.00
+Refused: 2
+1: Top-up accepted. Balance: 150.00
+2: Top-up refused. Balance: 150.00
+3: Top-up refused. Balance: 150.00
+
+3
+300
+1
+2
+1
+1
+1
+3
+0
+Card type: elder
+Rides taken: 3
+Top-ups: 0
+Fares paid: 3.00
+Lowest balance: 297.00
+Final balance: 297.00
+Refused: 0
+1: Ride accepted. Balance: 298.00
+2: Ride accepted. Balance: 298.00
+3: Ride accepted. Balance: 297.00
+
+2
+100
+1
+1
+1
+1
+1
+2
+0
+Card type: student
+Rides taken: 3
+Top-ups: 0
+Fares paid: 0.50
+Lowest balance: 99.50
+Final balance: 99.50
+Refused: 0
+1: Ride accepted. Balance: 99.50
+2: Ride accepted. Balance: 99.50
+3: Ride accepted. Balance: 99.50
+
+1
+0
+0
+Card type: adult
+Rides taken: 0
+Top-ups: 0
+Fares paid: 0.00
+Lowest balance: 0.00
+Final balance: 0.00
+Refused: 0
+
+1
+-35
+1
+20
+2
+50
+1
+1
+2
+50
+1
+60
+0
+Card type: adult
+Rides taken: 2
+Top-ups: 2
+Fares paid: 61.00
+Lowest balance: -35.00
+Final balance: 4.00
+Refused: 1
+1: Ride refused. Balance: -35.00
+2: Top-up accepted. Balance: 15.00
+3: Ride accepted. Balance: 14.00
+4: Top-up accepted. Balance: 64.00
+5: Ride accepted. Balance: 4.00
